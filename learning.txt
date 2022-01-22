@@ -1,0 +1,4 @@
+JavaScript
+
+use 'prompt' to show a message box that can take input
+use 'alert' to just show a message box.
